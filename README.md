@@ -5,9 +5,11 @@
 - Rapport (PDF/Drive) https://github.com/Rahma-7/ruffel-bag-api/blob/main/Labbrapport_.pdf
 
 ## Endpoints
-- GET /cars
-- GET /cars/<regnr>
-- POST /cars
-- PUT /cars/<regnr>
-- DELETE /cars/<regnr>
+
+- `GET /cars`
+- `GET /cars/<regnr>`
+- `POST /cars`
+- `PUT /cars/<regnr>`
+- `DELETE /cars/<regnr>`
+
 
